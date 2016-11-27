@@ -1,0 +1,86 @@
+
+.wrapper {
+    width: 1020px;
+    margin:0 150px;
+    font-family: Bebas Neue Regular;
+}
+
+.up {    
+    display:flex;
+    height: 83px;
+    color:#3cc3b5;
+    background-color:lightcyan;
+}
+
+.up1 {
+    display: inline-block;
+    width: 280px;
+    font-family: Lobster;
+    font-size: 48px;    
+    background-color: yellowgreen;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.up2 {
+    display: inline-block;    
+    width: 590px;
+    padding-top:23px;
+    padding-bottom: 24px;
+    background-color: yellow;    
+}
+
+input {
+    width: 430px;
+    height: 30px;
+    background-image: url('../img/Shape1.jpg');
+    background-repeat: no-repeat;
+    background-position: 99% 50%;
+    border-image-width: 0;
+    border-width: 2px;
+    border-color: #e1e1e1;    
+}
+
+.up3 {
+    display: inline-block;
+    width: 150px;
+    height: 100%;
+    background-image: url('../img/Shape2.jpg');
+    background-repeat: no-repeat;
+    background-position: 0% 48%;
+    background-color: orange;    
+}
+.up3 p {    
+    font-size: 33px;
+    color: #818181;
+    text-align: center;
+    position: relative;
+    top: 30%;
+}
+
+ul {
+    background-color:#4ccfc1;
+}
+
+li {
+    display: inline-block;
+    background-color:#4ccfc1;
+    height: 36px;    
+    color: #4ccfc1;
+    text-decoration: none;
+    box-sizing: border-box; // а надо?    
+}
+
+li a {
+    position:relative;
+    top: 25%;
+    font-size: 21px;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 24px; 
+    border-right-width: 2px;
+    border-color: white;
+}
+
+
+
